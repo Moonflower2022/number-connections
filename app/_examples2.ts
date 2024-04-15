@@ -17,7 +17,7 @@ export const categories: Category[] = [
     level: 3,
   },
   {
-    category: "PRIME NUMBERS",
+    category: "CATALAN NUMBERS",
     items: ["5", "14", "42", "132"],
     level: 4,
   },
