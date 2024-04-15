@@ -72,10 +72,6 @@ export default function Home() {
     setSubmitted(false);
   };
 
-  const handleChangePuzzle = async () => {
-    
-  }
-
   const onClickCell = useCallback(
     (word: Word) => {
       selectWord(word);
@@ -118,11 +114,6 @@ export default function Home() {
           text="Submit"
           unclickable={selectedWords.length !== 4 || submitted}
           onClick={handleSubmit}
-        />
-        <ControlButton
-          text="Change Puzzle"
-          unclickable={false}
-          onClick={handleChangePuzzle}
         />
       </div>
     );
