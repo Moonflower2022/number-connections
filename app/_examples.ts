@@ -4,22 +4,24 @@ export const categoriesList: Category[][] = [
   [
   {
     category: "PALINDROMES",
-    items: ["7", "11", "434", "797"],
+    items: ["121", "11", "434", "797"],
     level: 1,
   },
   {
-    category: "UNLUCKY NUMBERS",
-    items: ["4", "13", "17", "666"],
+    category: "CUBE NUMBERS",
+    items: ["1", "8", "27", "64"],
     level: 2,
+    
   },
   {
-    category: "PLAYER NUMBERS IN SQUID GAME",
-    items: ["1", "67", "218", "456"],
+    category: "LAST DIGITS OF RECENT YEARS",
+    items: ["20", "21", "22", "23"],
     level: 3,
   },
   {
-    category: "LAST DIGITS OF FAMOUS EXPERIMENTS IN POPPY PLAYTIME",
-    items: ["6", "170", "188", "222"],
+    
+    category: "UNLUCKY NUMBERS",
+    items: ["4", "13", "17", "666"],
     level: 4,
   }
 ],
@@ -68,7 +70,7 @@ export const categoriesList: Category[][] = [
   },
 ],
                                              
-                                             [
+[
   {
     category: "SQUARE NUMBERS",
     items: ["1", "4", "9", "16"],
@@ -107,12 +109,9 @@ export const categoriesList: Category[][] = [
     level: 3,
   },
   {
-    category: "MULTIPLES OF 6",
+    category: "MULTIPLES OF 5",
     items: ["25", "10", "125", "625"],
     level: 4,
   },
 ],
-                                            
-                                            
-                                            
-                                            ];
+];
