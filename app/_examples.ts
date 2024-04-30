@@ -3,12 +3,37 @@ import { Category } from "./_types";
 export const categoriesList: Category[][] = [
   [
   {
+    category: "BEN'S FAVORITE NUMBERS",
+    items: ["12", "14", "18", "26"],
+    level: 1,
+  },
+  {
+    category: "PERFECT CUBES",
+    items: ["1000", "1331", "1728", "2197"],
+    level: 2,
+    
+  },
+  {
+    category: "MULTIPLES OF 239",
+    items: ["1434", "1673", "1912", "2151"],
+    level: 3,
+  },
+  {
+    
+    category: "CARMICHAEL NUMBERS",
+    items: ["1105", "1729", "2465", "2821"],
+    level: 4,
+  }
+],
+  
+  [
+  {
     category: "PALINDROMES",
     items: ["121", "11", "434", "797"],
     level: 1,
   },
   {
-    category: "CUBE NUMBERS",
+    category: "PERFECT CUBES",
     items: ["1", "8", "27", "64"],
     level: 2,
     
