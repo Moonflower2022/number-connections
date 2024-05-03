@@ -4,7 +4,7 @@ export const categoriesList: Category[][] = [
   [
   {
     category: "FIRST DIGITS OF FAMOUS CONSTANTS",
-    items: ["1414", "1732", "2718", "3141"],
+    items: ["1414", "1618", "2718", "3141"],
     level: 3,
   },
   {
