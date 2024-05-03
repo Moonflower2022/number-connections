@@ -3,20 +3,20 @@ import { Category } from "./_types";
 export const categoriesList: Category[][] = [
   [
   {
-    category: "BEN'S FAVORITE NUMBERS",
-    items: ["12", "14", "18", "26"],
-    level: 1,
+    category: "FIRST DIGITS OF FAMOUS CONSTANTS",
+    items: ["1414", "1732", "2718", "3141"],
+    level: 3,
   },
   {
     category: "PERFECT CUBES",
     items: ["1000", "1331", "1728", "2197"],
-    level: 2,
+    level: 1,
     
   },
   {
     category: "MULTIPLES OF 239",
     items: ["1434", "1673", "1912", "2151"],
-    level: 3,
+    level: 2,
   },
   {
     
@@ -67,8 +67,8 @@ export const categoriesList: Category[][] = [
     level: 3,
   },
   {
-    category: "FIRST DIGITS OF FAMOUS CONSTANTS",
-    items: ["141", "173", "271", "314"],
+    category: "POWERS OF FOUR",
+    items: ["4", "16", "64", "256"],
     level: 2,
   }
 ],
