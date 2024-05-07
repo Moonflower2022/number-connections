@@ -28,24 +28,24 @@ export const categoriesList: Category[][] = [
   [
   {
     category: "AUTO COMPANIES",
-    items: ["AUDI", "BMW", "VW", "MERCEDES"],
-    level: 3,
+    items: ["AUDI", "BMW", "MERCEDES", "VW"],
+    level: 1,
   },
   {
     category: "UNITS IN PHYSICS",
-    items: ["GAUSS", "FARAD", "HENRY", "TESLA"],
-    level: 1,
+    items: ["FARAD", "GAUSS", "HENRY", "TESLA"],
+    level: 2,
     
   },
   {
     category: "TYPES OF RADIATION",
-    items: ["UV", "IR", "GAMMA", "X"],
-    level: 2,
+    items: ["GAMMA", "IR", "UV", "X"],
+    level: 3,
   },
   {
     
     category: "FAMOUS FUNCTIONS",
-    items: ["ZETA", "DELTA", "TOTIENT", "FLOOR"],
+    items: ["DELTA", "FLOOR", "TOTIENT", "ZETA"],
     level: 4,
   }
 ],
