@@ -25,6 +25,30 @@ export const categoriesList: Category[][] = [
     level: 4,
   }
 ],
+  [
+  {
+    category: "AUTO COMPANIES"
+    items: ["AUDI", "BMW", "VW", "MERCEDES"],
+    level: 3,
+  },
+  {
+    category: "UNITS IN PHYSICS"
+    items: ["GAUSS", "FARAD", "HENRY", "TESLA"],
+    level: 1,
+    
+  },
+  {
+    category: "TYPES OF RADIATION",
+    items: ["UV", "IR", "GAMMA", "X"],
+    level: 2,
+  },
+  {
+    
+    category: "FAMOUS FUNCTIONS",
+    items: ["ZETA", "DELTA", "TOTIENT", "FLOOR"],
+    level: 4,
+  }
+],
   
   [
   {
