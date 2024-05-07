@@ -27,12 +27,12 @@ export const categoriesList: Category[][] = [
 ],
   [
   {
-    category: "AUTO COMPANIES"
+    category: "AUTO COMPANIES",
     items: ["AUDI", "BMW", "VW", "MERCEDES"],
     level: 3,
   },
   {
-    category: "UNITS IN PHYSICS"
+    category: "UNITS IN PHYSICS",
     items: ["GAUSS", "FARAD", "HENRY", "TESLA"],
     level: 1,
     
