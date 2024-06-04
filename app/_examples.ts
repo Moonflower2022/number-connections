@@ -3,6 +3,30 @@ import { Category } from "./_types";
 export const categoriesList: Category[][] = [
   [
     {
+      category: "A001240",
+      items: ["85","575","3661","22631"],
+      level: 3,
+    },
+    {
+      category: "A145918",
+      items: ["11","23","83","179,"],
+      level: 1,
+
+    },
+    {
+      category: "A167766",
+      items: ["1619","2063","2999","4799"],
+      level: 2,
+    },
+    {
+
+      category: "A146544",
+      items: ["245784","288288","320320","480480"],
+      level: 4,
+    }
+  ],
+  [
+    {
       category: "FIRST DIGITS OF FAMOUS CONSTANTS",
       items: ["1414", "1618", "2718", "3141"],
       level: 3,
