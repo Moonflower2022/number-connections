@@ -9,7 +9,7 @@ export const categoriesList: Category[][] = [
     },
     {
       category: "A145918",
-      items: ["11","23","83","179,"],
+      items: ["11","23","83","179"],
       level: 1,
 
     },
