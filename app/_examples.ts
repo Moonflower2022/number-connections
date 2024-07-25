@@ -3,6 +3,30 @@ import { Category } from "./_types";
 export const categoriesList: Category[][] = [
   [
     {
+      category: "POWERS OF TWO",
+      items: ["8","32","64","128"],
+      level: 1,
+    },
+    {
+
+      category: "PALINDROMES",
+      items: ["22","77","121","171"],
+      level: 2,
+    },
+    {
+      category: "MULTIPLES OF 53",
+      items: ["106","159","265","371"],
+      level: 3,
+
+    },
+    {
+      category: "PRIME NUMBERS",
+      items: ["67","71","109","151"],
+      level: 4,
+    }
+  ],
+  [
+    {
       category: "FIRST DIGITS OF FAMOUS CONSTANTS",
       items: ["1414", "1618", "2718", "3141"],
       level: 3,
