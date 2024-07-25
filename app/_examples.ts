@@ -21,7 +21,7 @@ export const categoriesList: Category[][] = [
     },
     {
       category: "PRIME NUMBERS",
-      items: ["67","71","109","151"],
+      items: ["23","67","71","109"],
       level: 4,
     }
   ],
